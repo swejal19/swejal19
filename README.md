@@ -1,7 +1,11 @@
-## Hi, I'm Swejal ✨<br><br>- 🎓 I'm a third-year Computer Engineering student  <br>- 💻 I'm currently working on web development and AI/ML projects <br>- 📚  I'm currently learning JavaScript, React.js, and Machine Learning  <br>- 🎨 Fun fact: I enjoy blending creativity and calm through anime sketching and nature painting.<br>
+## Hi, I'm Swejal ✨
 
+🎓 I'm a third-year Computer Engineering student  <br>
+💻 I'm currently working on web development and AI/ML projects <br>
+📚  I'm currently learning JavaScript, React.js, and Machine Learning  <br>
+🎨 Fun fact: I enjoy blending creativity and calm through anime sketching and nature painting.<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swejal-tawrej/) 
 
 # 💻 Tech Stack:
