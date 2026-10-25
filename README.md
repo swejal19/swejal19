@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/banner-animated.gif" width="100%" alt="Swejal Tawrej animated particle terminal banner">
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v1.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v1.svg">
