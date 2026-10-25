@@ -1,13 +1,14 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:160B2B,75:301060,100:090014&height=220&section=header&text=SWEJAL%20TAWREJ&fontSize=44&fontColor=EDE4FF&fontAlignY=36&&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20&descAlignY=59&descSize=14&descColor=C4A7FF&animation=fadeIn" width="100%" alt="Swejal Tawrej — Software Engineer profile banner" />
+
 <div align="center">
   <img src="assets/banner-animated.gif" width="100%" alt="Swejal Tawrej animated particle terminal banner">
 </div>
 
 <div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username in the image URLs below. -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=200&section=header&text=SWEJAL%20TAWREJ&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=15" width="100%" alt="Swejal Tawrej profile banner" />
-
+<br>
+<br>
+  
 <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=800&lines=Turning+ideas+into+useful+software;Building+full-stack+web+applications;Exploring+AI%2FML+and+intelligent+systems;Learning%2C+building%2C+and+shipping+one+project+at+a+time">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=800&lines=Turning+ideas+into+useful+software;Building+full-stack+web+applications;Exploring+AI%2FML+and+intelligent+systems;Learning%2C+building%2C+and+shipping+one+project+at+a+time" alt="Animated tagline" />
 </a>
