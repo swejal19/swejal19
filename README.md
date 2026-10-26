@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:123B5D,75:087E9B,100:06101C&height=220&section=header&text=SWEJAL%20TAWREJ&fontSize=44&fontColor=E0F7FF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=59&descSize=14&descColor=67E8F9&animation=fadeIn" width="100%" alt="Swejal Tawrej — Software Engineer profile banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B101D,25:6B2948,50:AD4777,75:6B2948,100:2B101D&height=220&section=header&text=SWEJAL%20TAWREJ&fontSize=44&fontColor=FFF1F7&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=59&descSize=14&descColor=FFD0E2&animation=fadeIn" width="100%" alt="Swejal Tawrej profile banner" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=800&lines=Turning+ideas+into+useful+software;Building+full-stack+web+applications;Exploring+AI%2FML+and+intelligent+systems;Learning%2C+building%2C+and+shipping+one+project+at+a+time" alt="Animated tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3500&pause=1200&color=EFA3C2&center=true&vCenter=true&width=800&lines=Turning+ideas+into+useful+software;Building+full-stack+web+applications;Exploring+AI%2FML+and+intelligent+systems;Learning%2C+building%2C+and+shipping+one+project+at+a+time" alt="Animated tagline" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swejal-tawrej">
