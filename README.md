@@ -38,7 +38,7 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,js&perline=6" alt="C++, Python, JavaScript" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,sql&perline=6" alt="C++, Python, JavaScript, SQL" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,tailwind,css,js&perline=6" alt="React, HTML, Tailwind, CSS and JavaScript" />
@@ -58,7 +58,6 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 
 ## 🚀 Featured Projects
 
-<!-- Replace each YOUR_GITHUB_USERNAME/project-repository link with the actual repository URL. -->
 
 <table>
   <tr>
@@ -66,13 +65,13 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
       <h3>🎵 VibeTrack — Emotion-Aware Music Recommender</h3>
       <p>A music recommendation project that uses facial-expression emotion recognition to suggest music based on a user's detected mood.</p>
       <p><strong>Tech:</strong> Python, TensorFlow/Keras, OpenCV, Flask, React, MySQL</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/VibeTrack">View repository →</a></p>
+      <p><a href="https://github.com/swejal19/VibeTrack">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🗂️ Stratify — Goal Setting & Tracking Portal</h3>
       <p>A full-stack goal management portal with role-based dashboards, progress tracking, and analytics to help users stay focused on their goals.</p>
       <p><strong>Tech:</strong> React, Supabase, PostgreSQL, Recharts</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/Stratify">View repository →</a></p>
+      <p><a href="https://github.com/swejal19/Stratify">View repository →</a></p>
     </td>
   </tr>
   <tr>
@@ -80,13 +79,13 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
       <h3>💉 VaxTrack — Vaccine Tracking System</h3>
       <p>A database-driven system concept for managing vaccine information and tracking vaccination records.</p>
       <p><strong>Tech:</strong> Java, Spring Boot, MySQL, React</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/VaxTrack">View repository →</a></p>
+      <p><a href="https://github.com/swejal19/VaxTrack">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📸 PhotoBooth Web App</h3>
       <p>A browser-based photobooth for capturing a photo strip, applying visual filters, previewing backgrounds, and downloading the result.</p>
       <p><strong>Tech:</strong> HTML, CSS, JavaScript, Canvas API</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/PhotoBooth">View repository →</a></p>
+      <p><a href="https://github.com/swejal19/PhotoBooth">View repository →</a></p>
     </td>
   </tr>
 </table>
@@ -123,6 +122,6 @@ I'm always happy to connect with fellow developers, learn from others, and discu
 
 **Build with curiosity. Improve with consistency. Ship with purpose.** ✨
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">Explore my repositories</a>
+<a href="https://github.com/swejal19">Explore my repositories</a>
 
 </div>
