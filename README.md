@@ -38,7 +38,7 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql&perline=6" alt="C++, Python, JavaScript, SQL" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js&perline=6" alt="C++, Python, JavaScript" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,tailwind,css,js&perline=6" alt="React, HTML, Tailwind, CSS and JavaScript" />
