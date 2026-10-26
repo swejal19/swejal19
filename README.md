@@ -18,8 +18,10 @@
 </div>
 
 ---
-
-## Hey, I'm Swejal :)
+## Hey, I'm Swejal <img src="https://media.giphy.com/media/GyAHkTWspXZBxCTdas/giphy.gif" width="60" alt="Pocoyo animated sticker" />
+<table>
+  <tr>
+    <td width="75%" valign="top">
 
 I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys turning ideas into practical applications. I work across web development and AI/ML, and I love building projects that combine clean interfaces, useful features, and intelligent technology.
 
@@ -30,12 +32,21 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 - 🎨 Outside code, I enjoy sketching and painting.
 - 🚀 My current goal: keep learning, build meaningful projects, and grow as a software engineer.
 
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/TD1hBarZhAwZhcGHEQ/giphy.gif"
+           width="250"
+           alt="Animated character working on a laptop" />
+    </td>
+  </tr>
+</table>
+
 > **I believe the best way to learn technology is to build with it.**
+
 
 ---
 
-## 🧰 My Tech Stack
-
+##  <img src="https://media.giphy.com/media/aw1bS684GHNCQrf3kD/giphy.gif" width="60"/> My Tech Stack 
 <div align="center">
 
 ### Languages
@@ -57,7 +68,7 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/UTLjYWVv00Ex2/giphy.gif" width="60"/>Featured Projects 
 
 
 <table>
@@ -95,7 +106,7 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 
 ---
 
-## 📊 GitHub at a Glance
+## <img src="https://media.giphy.com/media/DSmAIq32kNQm1X6K8m/giphy.gif" width="70"/>  GitHub at a Glance
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=swejal19&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
@@ -106,7 +117,7 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 
 ---
 
-## 🌱 What I'm Working On
+##  <img src="https://media.giphy.com/media/dCjgjlXrflbRFqNiRL/giphy.gif" width="80"/> What I'm Working On
 
 - Strengthening **DSA, problem-solving, and core computer science fundamentals**.
 - Improving my full-stack development skills by building and refining real projects.
@@ -115,7 +126,7 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect 
 
 I'm always happy to connect with fellow developers, learn from others, and discuss software projects, web development, or AI/ML.
 
