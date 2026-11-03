@@ -109,8 +109,8 @@ I'm a **Computer Engineering student and aspiring Software Engineer** who enjoys
 ## <img src="https://media.giphy.com/media/DSmAIq32kNQm1X6K8m/giphy.gif" width="70"/>  GitHub at a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swejal19&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swejal19&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=swejal19&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=swejal19&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
   <br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=swejal19&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
